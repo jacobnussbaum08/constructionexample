@@ -1,35 +1,17 @@
 # Wireframe Notes
 
 ## Home
-Top trust bar, sticky header, full-bleed image hero, trust badges, metric strip, featured service cards, dark trust section, before/after slider, featured project, process, testimonials, service areas, financing CTA, FAQ, final quote form, premium footer.
+Small personalization banner, premium image-led hero, realistic quote form, trust metrics, services, comparison section, portfolio cards, trust explanation, and final quote form.
 
 ## About
-Image hero, company story, mission, values, leadership, licenses, supplier/certification language, sidebar CTA.
+Company story, values, credentials, trust stack, and request quote CTA.
 
-## Services Overview
-Image hero and six premium service cards linking into detailed SEO service pages.
-
-## Service Pages
-Keyword hero, local service copy, who it is for, benefits, process, FAQ note, project gallery, sidebar trust/CTA, local SEO paragraph.
+## Services
+Complete service pages for kitchen remodeling, bathroom remodeling, home additions, ADUs, and commercial tenant improvements.
 
 ## Projects
-Filter buttons by category, eight portfolio entries with challenge, scope, solution/materials, timeline, results summary, and CTA-ready card structure.
-
-## Testimonials
-Review-led hero and six strong testimonial cards with project type and city.
-
-## Service Areas
-City hub linking to twelve unique local SEO landing pages.
-
-## Financing
-Financing explanation, qualifying project types, payment conversation positioning, quote CTA.
+Portfolio cards with project type, location, scope, timeline, and outcome.
 
 ## Contact
-Above-the-fold quote form, phone CTA, address field, service, budget, timeline, message, map, business hours, response expectation, tracking hooks.
-
-## Insights
-SEO blog hub with expandable content topics for future local posts.
-
-## Thank You
-Noindex confirmation page with conversion event hook.
+Request a Quote form with a small note offering customization of the layout.
 

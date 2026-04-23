@@ -1,26 +1,17 @@
 # Exact Homepage Copy
 
+## Top Banner
+A quick custom mockup for Apex Ridge Construction, built around the kind of work you already do in Rocklin.
+
 ## Hero
-High-caliber construction for homes and commercial spaces that need to be done right.
+A stronger website experience for Apex Ridge Construction
 
-Summit Forge Construction manages premium remodels, additions, ADUs, and tenant improvements with tight communication, clean job sites, and craftsmanship built to hold its value.
+A polished demo showing how your remodeling, additions, ADUs, and commercial work could be presented to homeowners in Rocklin.
 
-Calls to action: Get a Free Quote, View Projects.
+## Personalization Block
+Why I put this together
 
-Trust badges: Licensed, bonded, insured. 4.9-star client rating. Financing available. Workmanship warranty.
+I built this around Apex Ridge Construction as a realistic demo, using the kind of services homeowners look for when comparing contractors in Rocklin. The idea is simple: make the work, trust signals, and quote request path feel clear before someone ever picks up the phone.
 
-## Main Value Statement
-Premium construction services with one accountable team.
-
-From the first estimate to the final walkthrough, our project managers keep the scope, schedule, trades, and finish quality moving in the same direction.
-
-## Why Choose Us
-Professional construction without the uncertainty.
-
-High-end work is not just better materials. It is tighter planning, cleaner communication, and a crew that treats occupied homes and active businesses with discipline.
-
-## Final CTA
-Tell us what you want to build. We will respond within 1 business day.
-
-Share the basics and we will schedule a practical next step: phone consult, site visit, or proposal review.
-
+## Contact Note
+This is a demo version. I can tailor it around your actual photos, services, reviews, and service areas if you’d like to see a live version for Apex Ridge.

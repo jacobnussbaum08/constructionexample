@@ -1,4 +1,4 @@
-# Complete Sitemap
+# Preview Sitemap
 
 - `/`
 - `/about/`
@@ -13,18 +13,9 @@
 - `/service-areas/`
 - `/financing/`
 - `/contact/`
-- `/thank-you/`
 - `/insights/`
-- `/roseville-general-contractor/`
-- `/rocklin-kitchen-remodeling/`
-- `/sacramento-bathroom-remodeling/`
-- `/folsom-home-additions/`
-- `/granite-bay-adus/`
-- `/el-dorado-hills-commercial-construction/`
-- `/lincoln-general-contractor/`
-- `/carmichael-kitchen-remodeling/`
-- `/davis-home-renovation/`
-- `/elk-grove-bathroom-remodeling/`
-- `/citrus-heights-roofing-siding/`
-- `/auburn-concrete-framing/`
+- `/thank-you/`
+- `/rocklin-remodeling-demo/`
+- `/roseville-contractor-demo/`
+- `/sacramento-adus-demo/`
 

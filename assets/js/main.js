@@ -41,9 +41,5 @@ document.querySelectorAll('[data-filter]').forEach((button) => {
 });
 
 document.querySelectorAll('[data-lead-form]').forEach((form) => {
-  form.addEventListener('submit', () => {
-    window.dataLayer = window.dataLayer || [];
-    window.dataLayer.push({ event: 'quote_request_submit', form_location: location.pathname });
-    if (window.fbq) window.fbq('track', 'Lead');
-  });
+  form.addEventListener('submit', () => {});
 });
